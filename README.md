@@ -1,2 +1,3 @@
-# mejorando-mi-logica
-Este repositorio es para poder practicar mi lógica de programación
+# Mejorando mi lógica de programación.
+
+La idea de este proyecto es poder poner en practica no solo mi lógica de programación, si no también poder practicar con diferentes lenguajes de programación.
