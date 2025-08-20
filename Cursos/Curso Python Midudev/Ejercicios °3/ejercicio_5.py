@@ -6,3 +6,11 @@ lista = [10, 20, 30, 40, 50, 60, 70, 80, 90]
 
 longitud_array = int((len(lista))/2)
 print(lista[longitud_array])
+
+###
+# Solución mejor optimizada
+###
+
+# lista = [10, 20, 30, 40, 50, 60, 70, 80, 90]
+# longitud_array = len(lista)//2
+# print(lista[longitud_array])
