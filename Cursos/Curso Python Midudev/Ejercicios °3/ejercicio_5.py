@@ -8,7 +8,7 @@ longitud_array = int((len(lista))/2)
 print(lista[longitud_array])
 
 ###
-# Solución mejor optimizada
+# Solución más optimizada
 ###
 
 # lista = [10, 20, 30, 40, 50, 60, 70, 80, 90]
